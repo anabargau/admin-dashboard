@@ -130,7 +130,7 @@ body {
     grid-template-columns: repeat(2, minmax(300px, 1fr));
     grid-template-rows: repeat(3, minmax(max-content, 1fr));
     gap: 30px;
-    height: 82%;
+    height: 95%;
 }
 
 .project-card {
@@ -182,7 +182,7 @@ body {
 .news {
     display: flex;
     flex-direction: column;
-    height: 80%;
+    height: 100%;
     gap: 15px;
 }
 
